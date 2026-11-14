@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/CrmInteligente.Api/CrmInteligente.Api.csproj" />
+    <Project Path="src/CrmInteligente.Client/CrmInteligente.Client.csproj" />
+    <Project Path="src/CrmInteligente.Shared/CrmInteligente.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CrmInteligente.IntegrationTests/CrmInteligente.IntegrationTests.csproj" />
+    <Project Path="tests/CrmInteligente.UnitTests/CrmInteligente.UnitTests.csproj" />
+  </Folder>
+</Solution>
